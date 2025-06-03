@@ -14,7 +14,8 @@ export const Navigation = () => {
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0">
             <h1 className="text-xl font-semibold text-[var(--foreground)]">
-              Next.js App
+              Next.js App 
+{/*                */}
             </h1>
           </div>
           <div className="flex items-center gap-4">
